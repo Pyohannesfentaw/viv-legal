@@ -6,5 +6,3 @@ Public legal documents for Viventia, published by Yohannes Fentaw (the Netherlan
 
 Contact: info.yobe.creative@gmail.com
 
-This repository contains only these public pages. It contains no application
-source code.
